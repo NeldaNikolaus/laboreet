@@ -1,0 +1,25 @@
+{
+  "name": "laboreet",
+  "version": "1.0.0",
+  "description": "Private Key Web3 provider",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeldaNikolaus/laboreet.git"
+  },
+  "keywords": [
+    "ethereum",
+    "private key",
+    "odio",
+    "est",
+    "truffle provider"
+  ],
+  "author": "ZaneDeckow",
+  "license": "MIT",
+  "homepage": "https://github.com/NeldaNikolaus/laboreet.git",
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.0",
+    "web3-provider-engine": "^15.0.12"
+  }
+}
